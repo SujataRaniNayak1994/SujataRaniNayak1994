@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sujata Rani Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align-"right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRuth-ikegah%2FRuth-ikegah&psig=AOvVaw2Ml96tPFY3MLI8Qf4L1rwL&ust=1700114017061000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjHsLKoxYIDFQAAAAAdAAAAABAE">
+<img align-"right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 - 📫 How to reach me *sujataraninayak1994@gmail.com*
 
